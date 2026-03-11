@@ -18,36 +18,15 @@
 
 ---
 
-<div align="left">
-  
-  <!-- LeetCode Achievement -->
-  <a href="https://leetcode.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io" 
-         alt="LeetCode Profile" />
-  </a>
-
-  <!-- JEE Main Achievement -->
-  <a href="https://drive.google.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io" 
-         alt="JEE Main Certificate" />
-  </a>
-
-  <!-- HackerRank Achievement -->
-  <a href="https://www.hackerrank.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io" 
-         alt="HackerRank Profile" />
-  </a>
-
-</div>
-
-<br/>
-
-### 🏆 Key Accomplishments
-- 🚀 **Problem Solver:** Conquered **250+ challenges** on [LeetCode](https://leetcode.com) with an optimized approach to Data Structures.
-- 🎓 **National Merit:** Secured a **CRL of 18993** in [JEE Main 2024](https://drive.google.com), placing in the top percentile of candidates nationwide.
-- ⚡ **Consistent Coder:** Successfully completed the [30 Days of Code](https://www.hackerrank.com) marathon on HackerRank, strengthening core programming fundamentals.
-
-
+🏆 Achievements
+- 🧠 Solved 250+ Problems on LeetCode
+  🔗 https://leetcode.com/u/Ghannath/
+  🔗 https://codolio.com/profile/ghannath
+- 🎯 Secured CRL 18993 in JEE Main 2024
+- https://drive.google.com/file/d/1fIqI6r_3nR-bCKL4zwRskYPhbK-NGBQt/view
+- 💻 Completed 30 Days of Code – HackerRank
+- 🔗 https://www.hackerrank.com/profile/ghannathk
+- 
 ---
   
 ## 📊 GitHub Stats
