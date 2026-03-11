@@ -20,8 +20,8 @@
 
 🏆 Achievements
 - 🧠 Solved 250+ Problems on LeetCode
-  🔗 https://leetcode.com/u/Ghannath/
-  🔗 https://codolio.com/profile/ghannath
+- 🔗 https://leetcode.com/u/Ghannath/
+- 🔗 https://codolio.com/profile/ghannath
 - 🎯 Secured CRL 18993 in JEE Main 2024
 - https://drive.google.com/file/d/1fIqI6r_3nR-bCKL4zwRskYPhbK-NGBQt/view
 - 💻 Completed 30 Days of Code – HackerRank
