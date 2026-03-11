@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ghannath Kumar</h1>
-<h3 align="center">CSE Freshman at NIT Patna | Aspiring Software Developer, Data Scientist & Data Analyst</h3>
+<h3 align="center">CSE at NIT Patna | Aspiring Software Developer, Data Scientist & Data Analyst</h3>
 
 ---
 
