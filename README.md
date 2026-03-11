@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 CSE Student at NIT Patna
-- 💻 Learning Java, DSA, Web Development
+- 💻 <h1 style="color: red; font-size: 20px;">Learning Java, DSA, Web Development<h1>
 - 📊 Exploring Data Science and Data Analysis
 - 🚀 Interested in Software Development and Open Source
 
