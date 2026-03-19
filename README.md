@@ -8,7 +8,6 @@
 -  # 💻 ${\color{red}Learning \space Java, \space DSA, \space Web \space Development}$
 - 📊 Exploring Data Science and Data Analysis
 - 🚀 Interested in Software Development and Open Source
-- 
 ---
 
 ## 🚀 Skills
