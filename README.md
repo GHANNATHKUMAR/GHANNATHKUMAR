@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ghannath Kumar</h1>
-<h3 align="center">CSE Sophomore at NIT Patna | Aspiring Software Developer, Data Scientist & Data Analyst</h3>
+<h3 align="center">CSE Sophomore at NIT Patna | Aspiring Software Developer</h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 CSE Student at NIT Patna
 -  # 💻 ${\color{red}Learning \space Java, \space DSA, \space Web \space Development}$
-- 📊 Exploring Data Science and Data Analysis
+- 📊 Exploring Artificial Intelligence And Machine Learning
 - 🚀 Interested in Software Development and Open Source
 ---
 
