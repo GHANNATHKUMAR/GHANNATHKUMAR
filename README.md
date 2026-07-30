@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 - 🎓 CSE Student at NIT Patna
 -  # 💻 ${\color{red}Learning \space Java, \space DSA, \space Web \space Development}$
-- 📊 Exploring Artificial Intelligence And Machine Learning
 - 🚀 Interested in Software Development and Open Source
 ---
 
